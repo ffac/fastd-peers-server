@@ -1,2 +1,2 @@
 key "a2bb85187a103dba07b886fdc9510b32c6799872232c507e919fa34549ffaee1";
-remote ipv4 '02.nodes.freifunk-aachen.de' port 35003;
+remote ipv4 "02.nodes.freifunk-aachen.de" port 35003;
